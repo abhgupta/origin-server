@@ -24,7 +24,7 @@ def usage
     puts <<USAGE
 == Synopsis
 
-oo-setup-broker: Script to setup the broker and required services on this machine.
+#{$0}: Script to setup the broker and required services on this machine.
   This command must be run as root.
 
 == List of arguments
